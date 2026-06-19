@@ -85,3 +85,4 @@ Notes for evaluators
 
 Homepage feature note
 - Added a short note to indicate the `feature/homepage` branch includes the initial homepage content for evaluation.
+- Ensure branch `feature/homepage` is committed and merged into `main`.
