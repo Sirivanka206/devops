@@ -2,9 +2,9 @@
   "name": "o2h-app",
   "version": "1.0.0",
   "description": "Simple Node app for o2h DevOps assessment",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node app.js",
     "test": "echo \"No tests provided\" && exit 0"
   },
   "dependencies": {
